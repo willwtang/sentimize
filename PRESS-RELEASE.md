@@ -17,27 +17,27 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Analyze video to show people's emotions.
+  > Interview your candidates with everything all in one place.
   Name the product in a way the reader (i.e. your target customers) will understand.
 
 ## Sub-Heading ##
-  > Learn more about the person you are video chatting.
+  > We have a calendar, emotions analysis app, video chat, and editable code box.
   Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
 ## Summary ##
-  > Video chatting platform for you and your friends. Sentimize will show you data on how your friend's are feeling during your video chat.  
+  > Interview app for coding interviews.  
   Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
 ## Problem ##
-  > No access or record to analyze the video chat. 
+  > No all in one solution for online interviews. 
   Describe the problem your product solves.
 
 ## Solution ##
-  > Show and save data on video chats on people's emotions.
+  > Put together calendar, notes, transcript, and everything in one place.
   Describe how your product elegantly solves the problem.
 
 ## Quote from You ##
-  > Sentimize allows you to gain more information about whoever you video chat with.  
+  > Sentiview allows you to interview anyone on one app.
   A quote from a spokesperson in your company.
 
 ## How to Get Started ##
@@ -45,7 +45,7 @@ Once the project moves into development, the press release can be used as a touc
   Describe how easy it is to get started.
 
 ## Customer Quote ##
-  > Sentimize helped my company improve teamwork and communication.
+  > Sentiview helped my company hire more people.
   Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
 ## Closing and Call to Action ##
